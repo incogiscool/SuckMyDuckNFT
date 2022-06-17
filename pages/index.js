@@ -14,7 +14,7 @@ export default function Home() {
         <Title />
         <Navbar />
         <h1 className={styles.mainH1}>Suck My Duck</h1>
-        <p className={styles.mainP}>Crypto sucks, NFTs sucks, so lets SUCK MY DUCK!</p>
+        <p className={styles.mainP}>Crypto is sucks, NFTs is sucks, so lets SUCK MY DUCK!</p>
         <p className={styles.catchPhrase}>5555 ducks ready to suck by you.</p>
         <div className={styles.socials}>
           <Link href='https://twitter.com/Suckmyducknft'>
