@@ -1,7 +1,7 @@
 .container {
   color: white;
   background-color: #74C9CE;
-  background-image: url('https://i.postimg.cc/j5Cywm31/IMG-0109-1-1.png'), url('https://i.postimg.cc/43s5d8gC/Untitled-Artwork-1.png');
+  background-image: url('./../public/IMG_0109\ \(1\)\ \(1\).png'), url('./../public/Untitled_Artwork\(1\).png');
   background-repeat: no-repeat;
   background-position-y: bottom;
   background-position-x: left, right;
@@ -40,4 +40,12 @@
   font-size: 27px;
   line-height: 39px;
   text-align: center;
+}
+
+.socials {
+  margin: 6rem;
+}
+
+.socials a {
+  margin: 3rem;
 }

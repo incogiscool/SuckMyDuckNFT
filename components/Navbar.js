@@ -9,7 +9,7 @@ export default function Navbar() {
                 <Link href='#'>
                     <a>Roadmap</a>
                 </Link>
-                <Link href='/about'>
+                <Link href='#'>
                     <a>About</a>
                 </Link>
                 <Link href='/'>
