@@ -9,7 +9,7 @@
 
 .listContainer a{
     color: white;
-    font-family: 'Indie Flower';
+    font-family: 'Hey Comic';
     font-style: normal;
     font-weight: 400;
     font-size: 27px;
@@ -24,7 +24,7 @@
 
 .listContainer p {
     color: white;
-    font-family: 'Indie Flower';
+    font-family: 'Hey Comic';
     font-style: normal;
     font-weight: 400;
     font-size: 27px;
@@ -46,4 +46,9 @@
 .listContainer p:hover {
     color: #cbe6e7;
     transition: .2s;
+}
+
+@font-face {
+    font-family: "Hey Comic";
+    src: url('../public/Hey\ Comic.ttf');
 }
