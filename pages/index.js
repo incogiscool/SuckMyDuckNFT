@@ -38,6 +38,7 @@ export default function Home() {
             </a>
           </Link>
         </div>
+        <a>About page and roadmap coming soon!</a>
       </div>
     </div>
   )
