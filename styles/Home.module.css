@@ -3,6 +3,7 @@
   background-color: #74C9CE;
   background-image: url('./../public/IMG_0109\ \(1\)\ \(1\).png'), url('./../public/Untitled_Artwork\(1\).png');
   background-repeat: no-repeat;
+  background-size: 32rem;
   background-position-y: bottom;
   background-position-x: left, right;
 }
@@ -53,4 +54,16 @@
 @font-face {
   font-family: "Hey Comic";
   src: url('../public/Hey\ Comic.ttf');
+}
+
+@media only screen and (max-width: 1100px) {
+  .container {
+    background-size: 22rem;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  .container {
+    background-size: 0rem;
+  }
 }
